@@ -1,0 +1,68 @@
+Connected with rc: 0
+
+Antenna: HF Receiver:  RTL-SDR
+antennaBankOffset =  0
+
+pinBank =  0: True False True False False False True False False False False False Receiver:  RTL-SDR
+antennaBankOffset =  1
+
+pinBank =  1: False True False False False True False False False False False False Receiver:  RTL-SDR
+antennaBankOffset =  1
+
+pinBank =  1: False True False False False True False False False False False False Receiver:  AirspyHF+
+antennaBankOffset =  13
+
+pinBank =  13: False True False False False True False False False False False True 
+Antenna: HF Receiver:  AirspyHF+
+antennaBankOffset =  12
+
+pinBank =  12: False False True False False False True False False False False False Receiver:  AirspyHF+
+antennaBankOffset =  13
+
+pinBank =  13: False True False False False True False False False False False True Receiver:  AirspyHF+
+antennaBankOffset =  13
+
+pinBank =  13: False True False False False True False False False False False True Receiver:  HackRF
+antennaBankOffset =  61
+
+pinBank =  61: False False False False False False False True False False False True 
+Antenna: VHF Receiver:  HackRF
+antennaBankOffset =  61
+
+pinBank =  61: False False False False False False False True False False False True Receiver:  HackRF
+antennaBankOffset =  61
+
+pinBank =  61: False False False False False False False True False False False True Receiver:  HackRF
+antennaBankOffset =  61
+
+pinBank =  61: False False False False False False False True False False False True Receiver:  LimeSDR
+antennaBankOffset =  25
+
+pinBank =  25: False True True False False False True False False False False False 
+Antenna: HF Receiver:  LimeSDR
+antennaBankOffset =  24
+
+pinBank =  24: True False True True False False False True False False False False Receiver:  LimeSDR
+antennaBankOffset =  25
+
+pinBank =  25: False True True False False False True False False False False False Receiver:  LimeSDR
+antennaBankOffset =  25
+
+pinBank =  25: False True True False False False True False False False False False Receiver:  RTL-SDR
+antennaBankOffset =  1
+
+pinBank =  1: False True False False False True False False False False False False 
+Antenna: VHF Receiver:  RTL-SDR
+antennaBankOffset =  1
+
+pinBank =  1: False True False False False True False False False False False False 
+Antenna: HF Receiver:  RTL-SDR
+antennaBankOffset =  0
+
+pinBank =  0: True False True False False False True False False False False False Receiver:  RTL-SDR
+antennaBankOffset =  1
+
+pinBank =  1: False True False False False True False False False False False False Receiver:  RTL-SDR
+antennaBankOffset =  1
+
+pinBank =  1: False True False False False True False False False False False False 

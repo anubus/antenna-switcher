@@ -1,0 +1,11 @@
+[Unit]
+Description=Python application to switch antenna connections using OpenWebRX MQTT messages
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/home/pi/mqtt/run_antenna.sh
+Restart=on-abort
+
+[Install]
+WantedBy=multi-user.target

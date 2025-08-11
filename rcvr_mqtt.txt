@@ -1,0 +1,58 @@
+openwebrx/RX {"mode": "RX", "timestamp": 1753731703784, "source_id": "rtlsdr", "source": "RTL-SDR", "profile_id": "a0cdb402-7f6d-4b30-a635-702e12a2c77a", "profile": "FM Lo", "freq": 89000000, "samplerate": 2300000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731715817, "source_id": "rtlsdr", "source": "RTL-SDR", "profile_id": "70cm", "profile": "70cm Repeaters", "freq": 438800000, "samplerate": 2400000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731723805, "source_id": "rtlsdr", "source": "RTL-SDR", "profile_id": "2m", "profile": "2m", "freq": 145000000, "samplerate": 2048000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731733917, "source_id": "rtlsdr", "source": "RTL-SDR", "profile_id": "10m", "profile": "10m + CB", "freq": 28000000, "samplerate": 2048000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731742901, "source_id": "rtlsdr", "source": "RTL-SDR", "profile_id": "40m", "profile": "40m", "freq": 7500000, "samplerate": 1024000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731750460, "source_id": "rtlsdr", "source": "RTL-SDR", "profile_id": "80m", "profile": "80m", "freq": 3500000, "samplerate": 1024000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731757908, "source_id": "rtlsdr", "source": "RTL-SDR", "profile_id": "160m", "profile": "160m", "freq": 1500000, "samplerate": 1024000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731765482, "source_id": "rtlsdr", "source": "RTL-SDR", "profile_id": "am", "profile": "AM Broadcast", "freq": 1000000, "samplerate": 1024000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731773367, "source_id": "rtlsdr", "source": "RTL-SDR", "profile_id": "adsb1090", "profile": "1090MHz ADSB", "freq": 1090000000, "samplerate": 2400000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731781868, "source_id": "rtlsdr", "source": "RTL-SDR", "profile_id": "555ec5f9-57a2-4e76-af4f-389f63c73f5c", "profile": "Wx", "freq": 162500000, "samplerate": 2300000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731788947, "source_id": "rtlsdr", "source": "RTL-SDR", "profile_id": "8c58a7ce-a01a-499a-9625-0e984422a84a", "profile": "20m", "freq": 14200000, "samplerate": 1000000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731797706, "source_id": "rtlsdr", "source": "RTL-SDR", "state": "Stopping"}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731797748, "source_id": "rtlsdr", "source": "RTL-SDR", "state": "Stopped"}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731797862, "source_id": "airspy", "source": "AirspyHF+", "state": "Running"}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731799448, "source_id": "airspy", "source": "AirspyHF+", "profile_id": "20m", "profile": "20m", "freq": 14150000, "samplerate": 912000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731806849, "source_id": "airspy", "source": "AirspyHF+", "profile_id": "30m", "profile": "30m", "freq": 10136000, "samplerate": 912000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731811645, "source_id": "airspy", "source": "AirspyHF+", "profile_id": "40m", "profile": "40m", "freq": 7100000, "samplerate": 912000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731817597, "source_id": "airspy", "source": "AirspyHF+", "profile_id": "80m", "profile": "80m", "freq": 3650000, "samplerate": 912000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731822616, "source_id": "airspy", "source": "AirspyHF+", "profile_id": "49m", "profile": "49m Broadcast", "freq": 6050000, "samplerate": 384000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731829778, "source_id": "airspy", "source": "AirspyHF+", "profile_id": "3c97f4d9-9f09-4587-829b-87cd1a8d3496", "profile": "FM 88.9", "freq": 88900000, "samplerate": 912000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731837438, "source_id": "airspy", "source": "AirspyHF+", "profile_id": "47981a91-cb34-4275-83d0-70da79a4f1fa", "profile": "Wx", "freq": 162475000, "samplerate": 912000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731842409, "source_id": "airspy", "source": "AirspyHF+", "profile_id": "ff790f55-8577-45b3-9254-8f9aca29c98e", "profile": "2m", "freq": 144500000, "samplerate": 912000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731848169, "source_id": "airspy", "source": "AirspyHF+", "profile_id": "58eec62a-dc24-48e8-9013-1e621ae988af", "profile": "AM Broadcast", "freq": 1000000, "samplerate": 912000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731854173, "source_id": "airspy", "source": "AirspyHF+", "profile_id": "44851284-1097-45ad-af10-f48c7613370b", "profile": "22m", "freq": 13600000, "samplerate": 912000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731858918, "source_id": "airspy", "source": "AirspyHF+", "profile_id": "a7e77b1f-91ba-45bf-bffd-8823a357fada", "profile": "18m", "freq": 15500000, "samplerate": 912000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731864402, "source_id": "airspy", "source": "AirspyHF+", "profile_id": "2c200521-859d-431b-a2d4-56b3ea58a707", "profile": "10m WWV", "freq": 10200000, "samplerate": 912000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731871017, "source_id": "airspy", "source": "AirspyHF+", "state": "Stopping"}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731871035, "source_id": "airspy", "source": "AirspyHF+", "state": "Stopped"}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731871149, "source_id": "2cff263b-13f9-433c-954d-1f03d8adc0e5", "source": "LimeSDR", "state": "Running"}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731872652, "source_id": "2cff263b-13f9-433c-954d-1f03d8adc0e5", "source": "LimeSDR", "profile_id": "00c8ed3f-5767-40d9-9347-8f932e8a50c6", "profile": "FM Lo", "freq": 92000000, "samplerate": 8000000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731881111, "source_id": "2cff263b-13f9-433c-954d-1f03d8adc0e5", "source": "LimeSDR", "profile_id": "7331bbf3-5a1a-4764-9d41-fc6fc0deb8b5", "profile": "ADSB", "freq": 1090000000, "samplerate": 8000000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731890989, "source_id": "2cff263b-13f9-433c-954d-1f03d8adc0e5", "source": "LimeSDR", "profile_id": "d24ad9a9-b6c7-4d06-bcd8-e5c05890f56c", "profile": "HF Mid", "freq": 14000000, "samplerate": 4000000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731898254, "source_id": "2cff263b-13f9-433c-954d-1f03d8adc0e5", "source": "LimeSDR", "profile_id": "becec315-2185-49db-a233-717d138ee965", "profile": "20m", "freq": 14074000, "samplerate": 8000000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731910506, "source_id": "2cff263b-13f9-433c-954d-1f03d8adc0e5", "source": "LimeSDR", "state": "Stopping"}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731910944, "source_id": "2cff263b-13f9-433c-954d-1f03d8adc0e5", "source": "LimeSDR", "state": "Stopped"}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731911057, "source_id": "67a72576-bdc2-46d4-a704-7173e4b470b8", "source": "HackRF", "state": "Running"}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731912716, "source_id": "67a72576-bdc2-46d4-a704-7173e4b470b8", "source": "HackRF", "profile_id": "2ca816dc-947d-4b5f-8502-b0173cfc01fe", "profile": "FM Lo", "freq": 90000000, "samplerate": 8000000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731919860, "source_id": "67a72576-bdc2-46d4-a704-7173e4b470b8", "source": "HackRF", "profile_id": "37c858fd-e6c3-45b2-b3f0-9029a3e190a3", "profile": "ADSB", "freq": 1090000000, "samplerate": 4000000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731934003, "source_id": "67a72576-bdc2-46d4-a704-7173e4b470b8", "source": "HackRF", "profile_id": "c11c62a1-9b1c-4e10-beff-4648078a8cce", "profile": "Wx", "freq": 162500000, "samplerate": 4000000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731945240, "source_id": "67a72576-bdc2-46d4-a704-7173e4b470b8", "source": "HackRF", "profile_id": "91814391-cc4a-4534-a2da-5e0909e047ff", "profile": "20m", "freq": 14000000, "samplerate": 4000000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731955134, "source_id": "67a72576-bdc2-46d4-a704-7173e4b470b8", "source": "HackRF", "profile_id": "fe5499a1-9c33-48d7-a974-0a3440083837", "profile": "22m", "freq": 13600000, "samplerate": 1000000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731965424, "source_id": "67a72576-bdc2-46d4-a704-7173e4b470b8", "source": "HackRF", "state": "Stopping"}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731965474, "source_id": "67a72576-bdc2-46d4-a704-7173e4b470b8", "source": "HackRF", "state": "Stopped"}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731965588, "source_id": "33329fa2-0eb7-4a58-9b9f-e9dad7dedae4", "source": "Pluto", "state": "Running"}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731967096, "source_id": "33329fa2-0eb7-4a58-9b9f-e9dad7dedae4", "source": "Pluto", "profile_id": "6dc25355-6b64-49a5-9989-734ecd869d72", "profile": "FM Lo", "freq": 90000000, "samplerate": 4000000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731973629, "source_id": "33329fa2-0eb7-4a58-9b9f-e9dad7dedae4", "source": "Pluto", "profile_id": "40202d9d-442f-4a8e-b9ab-67a7d4550c2b", "profile": "ADSB", "freq": 1090000000, "samplerate": 2000000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731980903, "source_id": "33329fa2-0eb7-4a58-9b9f-e9dad7dedae4", "source": "Pluto", "profile_id": "7098e7ee-3364-4913-812d-ef271d414513", "profile": "20m", "freq": 15000000, "samplerate": 4000000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731989584, "source_id": "33329fa2-0eb7-4a58-9b9f-e9dad7dedae4", "source": "Pluto", "profile_id": "3d35797d-0d7f-4fc9-a542-6524f389e427", "profile": "Wx", "freq": 162500000, "samplerate": 4000000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731998135, "source_id": "33329fa2-0eb7-4a58-9b9f-e9dad7dedae4", "source": "Pluto", "state": "Stopping"}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731998151, "source_id": "33329fa2-0eb7-4a58-9b9f-e9dad7dedae4", "source": "Pluto", "state": "Stopped"}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731998266, "source_id": "11c69b17-57e2-4fc9-9751-bb0bc77fdd47", "source": "B205mini", "state": "Running"}
+openwebrx/RX {"mode": "RX", "timestamp": 1753731999756, "source_id": "11c69b17-57e2-4fc9-9751-bb0bc77fdd47", "source": "B205mini", "profile_id": "6481d035-87a3-4660-8209-9ca67dc83a92", "profile": "FM Lo", "freq": 91000000, "samplerate": 6000000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753732032516, "source_id": "11c69b17-57e2-4fc9-9751-bb0bc77fdd47", "source": "B205mini", "profile_id": "1afbb7c2-a828-48d8-8812-462e0a099fff", "profile": "ADSB", "freq": 1090000, "samplerate": 4000000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753732045413, "source_id": "11c69b17-57e2-4fc9-9751-bb0bc77fdd47", "source": "B205mini", "profile_id": "1056f46f-cc8a-4d94-902f-866597ee7197", "profile": "FM Mid", "freq": 97000000, "samplerate": 6000000}
+openwebrx/RX {"mode": "RX", "timestamp": 1753732062250, "source_id": "11c69b17-57e2-4fc9-9751-bb0bc77fdd47", "source": "B205mini", "state": "Stopping"}
+openwebrx/RX {"mode": "RX", "timestamp": 1753732062305, "source_id": "11c69b17-57e2-4fc9-9751-bb0bc77fdd47", "source": "B205mini", "state": "Stopped"}
+openwebrx/RX {"mode": "RX", "timestamp": 1753732062419, "source_id": "rtlsdr", "source": "RTL-SDR", "state": "Running"}
+openwebrx/RX {"mode": "RX", "timestamp": 1753732064046, "source_id": "rtlsdr", "source": "RTL-SDR", "profile_id": "a0cdb402-7f6d-4b30-a635-702e12a2c77a", "profile": "FM Lo", "freq": 89000000, "samplerate": 2300000}
